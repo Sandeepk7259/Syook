@@ -1,0 +1,8 @@
+1. Import the necessary libraries:
+2. Define the threshold for detecting movement:
+3. Connect to the BLE tag:
+4. Start reading accelerometer data from the BLE tag:
+5. Parse the accelerometer data:
+6. Calculate the magnitude of the acceleration:
+7. Detect if the tag is moving or stationary:
+8. Run the code by installing bluetooth module/connecting Bluetooth module
